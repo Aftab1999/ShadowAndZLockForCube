@@ -32,7 +32,7 @@ Before you begin, ensure you have the following installed:
 1. **Clone the Repository**
 
     ```sh
-    git clone https://github.com/yourusername/ShadowAndZLockForCube.git
+    git clone https://github.com/Aftab1999/ShadowAndZLockForCube.git
     ```
 
 2. **Set up the React Frontend**
@@ -48,10 +48,6 @@ Before you begin, ensure you have the following installed:
 
     Open the backend solution in Visual Studio or your preferred IDE. Restore the NuGet packages and ensure the project builds successfully.
 
-4. **Configure Environment Variables**
-
-    - For the frontend, create a file in the `ReactFrontend` directory and specify your environment variables.
-    - For the backend, adjust the `appsettings.json` or similar configuration file according to your environment.
 
 5. **Run the Project**
 
